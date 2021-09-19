@@ -17,7 +17,7 @@ app.set("view engine", "ejs");
 //     useFindAndModify: false
 // });
 
-mongoose.connect("mongodb+srv://aniket-2611:test-123@cluster0.rh7fr.mongodb.net/BankDB?retryWrites=true&w=majority", {
+mongoose.connect("mongodb+srv://Aakash-2611:test-123@cluster0.rh7fr.mongodb.net/BankDB?retryWrites=true&w=majority", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useFindAndModify: false
